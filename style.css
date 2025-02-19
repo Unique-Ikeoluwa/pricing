@@ -552,3 +552,52 @@ sup{
     font-weight: 300;
     letter-spacing: .11px;
 }
+@media (max-width:900px) {
+    .nav-bar{ display: flex;
+    flex-direction: column;}
+}
+@media (max-width:900px) {
+    .nav-menu{ display: flex;
+    flex-direction: column;}
+    
+}
+@media (max-width:900px) {
+    .btn1{ display: flex;
+    flex-direction: column;}
+    
+}
+@media (max-width:900px) {
+    .main-header{ display: flex;
+    flex-direction: column;}
+    
+}
+@media (max-width:900px) {
+    .main-body{ display: flex;
+    flex-direction: column;}
+    
+}
+@media (max-width:900px) {
+    .collab{ display: flex;
+    flex-direction: column;}
+    
+}
+@media (max-width:900px) {
+    .partner{ display: flex;
+    flex-direction: column;}
+    
+}
+@media (max-width:900px) {
+    .bonsai{ display: flex;
+    flex-direction: column;}
+    
+}
+@media (max-width:900px) {
+    .extra{ display: flex;
+    flex-direction: column;}
+    
+}
+@media (max-width:900px) {
+    .container{ display: flex;
+    flex-direction: column;}
+    
+}
